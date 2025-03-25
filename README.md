@@ -2,7 +2,7 @@
 
 File stucture 
 
-Inside Starter_code folder the jupyter colab file located (Home_sales_colab)
+Inside Starter_code folder the jupyter colab file located (Home_sales_colab.ipynb)
 
 Instruction
 
